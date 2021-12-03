@@ -1,0 +1,22 @@
+{
+  "name": "js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayFilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhtuan01022001/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhtuan01022001/js/issues"
+  },
+  "homepage": "https://github.com/anhtuan01022001/js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
