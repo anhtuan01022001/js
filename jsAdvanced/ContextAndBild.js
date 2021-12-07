@@ -20,7 +20,7 @@ var cat = {
 
 var say = mouse.sayHi.bind(mouse);// output : Hi, my name is + mouse(this).name  
 
-say();
+console.log(say());
 
 
 // ứng dụng
